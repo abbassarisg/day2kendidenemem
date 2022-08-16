@@ -6,6 +6,7 @@ public class Day1Git {
         System.out.println("Git 4. Deneme");
         System.out.println("Git 5. Deneme");
         System.out.println("Day3 6. Deneme");
+        System.out.println("Day3 Github tan 7. Deneme");
 
     }
 }
